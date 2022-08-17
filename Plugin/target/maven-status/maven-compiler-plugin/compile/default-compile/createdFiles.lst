@@ -1,0 +1,7 @@
+me\makecode\kiwii\util\SyncLambda.class
+me\makecode\kiwii\command\DrinkManager.class
+me\makecode\kiwii\command\DrinkAbstractcommand.class
+me\makecode\kiwii\util\Utils.class
+me\makecode\kiwii\listener\RedisMessagerListener.class
+me\makecode\kiwii\Kiwii.class
+me\makecode\kiwii\util\RedisPlaceholders.class

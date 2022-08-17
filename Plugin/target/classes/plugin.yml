@@ -1,0 +1,8 @@
+name: Kiwii
+version: 1.0-SNAPSHOT
+main: me.makecode.kiwii.Kiwii
+api-version: 1.15
+prefix: KWE
+authors: [wasmake]
+description: Kiwii plugin for minecraft stores
+website: www.makecode.me

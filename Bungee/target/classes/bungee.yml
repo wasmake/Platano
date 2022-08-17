@@ -1,0 +1,4 @@
+name: Kiwii
+version: 1.0-SNAPSHOT
+main: me.makecode.kiwii.bungee.KiwiiBungee
+description: Bungeecord plugin

@@ -1,0 +1,5 @@
+me\makecode\kiwii\bungee\listener\RedisMessagerListener.class
+me\makecode\kiwii\bungee\command\DrinkManager.class
+me\makecode\kiwii\bungee\command\DrinkAbstractcommand.class
+me\makecode\kiwii\bungee\KiwiiBungee.class
+me\makecode\kiwii\bungee\command\admin\StoreCmd.class

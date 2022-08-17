@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Core" />
+        <module name="Bungee" />
+        <module name="API" />
+        <module name="Plugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API" target="1.8" />
+      <module name="Bungee" target="1.8" />
+      <module name="Cloud" target="1.8" />
+      <module name="Core" target="1.8" />
+      <module name="Kiwii" target="1.8" />
+      <module name="Plugin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
